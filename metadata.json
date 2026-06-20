@@ -1,0 +1,6 @@
+{
+  "name": "تحدي الفرق",
+  "description": "تطبيق مسابقات تفاعلي واحترافي للفرق مع بنك أسئلة غني ومتنوع ومصنف حسب الصعوبة، يدعم وسائل المساعدة واحتساب النقاط تلقائياً ونظام جولات ممتع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
